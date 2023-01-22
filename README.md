@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergejSolopow
 - 👀 I’m interested in JAVA projects
-- 🌱 I’m currently learning server side programming with php, java
+- 🌱 I’m currently learning server side programming with java, Spring, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sergej.solopow@gmail.com
 
